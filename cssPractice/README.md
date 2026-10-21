@@ -22,9 +22,9 @@ Take the css rules below and properly attach them to the html so that your index
 ## CSS Selectors
 
 1.	body Y
-2.	#page-wrapper Y
-3.	#header 
-4.	#header h1 
+2.	#page-wrapper Y 
+3.	#header Y
+4.	#header h1 Y
 5.	#header a#logo1 img Y
 6.	#header #toplink Y
 7.	#footer Y
