@@ -38,7 +38,7 @@ Take the css rules below and properly attach them to the html so that your index
 15.	#main-nav ul li 
 16.	#main-nav ul li a 
 17.	#main-nav ul li a:hover 
-18.	#center 
+18.	#center Y
 19.	strong Y
 
 ***

@@ -22,7 +22,7 @@
 }
 
 
-  { position: relative;
+ { position: relative;
   margin-top: 40px;
   border-radius: 12px 12px 0px 0px;}
 
@@ -32,7 +32,7 @@
     clear: both;}
 
 
- {   list-style-type: none;
+  #page-wrapper {   list-style-type: none;
     margin: 0;
     padding: 0;
     float: left;
@@ -76,7 +76,7 @@ body {   background-image: url("../images/black.jpg"); }
     background-color: #333;}
 
 
-{   padding: 10px 25px;
+ {   padding: 10px 25px;
     display: block;
     text-decoration: none;
     color: #ccc;}
@@ -92,11 +92,11 @@ body {   background-image: url("../images/black.jpg"); }
     border-radius: 12px 12px 0px 0px; }
 
   
- #side-content{   float: left;
+ {   float: left;
     position: relative;
     right: 50%;}
 
- {       width: 960px;
+ #center {       width: 960px;
         text-align: center;}
 
 
