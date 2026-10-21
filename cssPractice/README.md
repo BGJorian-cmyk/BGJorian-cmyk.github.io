@@ -22,21 +22,21 @@ Take the css rules below and properly attach them to the html so that your index
 ## CSS Selectors
 
 1.	body Y
-2.	#page-wrapper 
+2.	#page-wrapper Y
 3.	#header 
 4.	#header h1 
 5.	#header a#logo1 img Y
 6.	#header #toplink Y
 7.	#footer Y
-8.	#content-wrapper 
+8.	#content-wrapper Y
 9.	#main-content Y
-10.	h2 strong 
+10.	h2 strong Y
 11.	.image-r Y
-12.	#side-content 
-13.	#main-nav 
+12.	#side-content Y 
+13.	#main-nav Y
 14.	#main-nav ul 
-15.	#main-nav ul li 
-16.	#main-nav ul li a 
+15.	#main-nav ul li Y
+16.	#main-nav ul li a Y
 17.	#main-nav ul li a:hover 
 18.	#center Y
 19.	strong Y
