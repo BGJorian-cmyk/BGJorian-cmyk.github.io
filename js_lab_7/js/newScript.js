@@ -3,11 +3,12 @@ function init(){
 // add your javascript code below
 
 // Create a variable to store button object content
-    const entrybutton = document.getElementById("entrybutton")
+    const entrybutton = document.getElementById("entrybutton");
     // Create a function for the addEventListener (myFunction) {
     function myFunction () {
+      const entryinputEL = document.getElementById("entryinput");
     // Create a variable to store what the user types into the textbox
-        const userInput = document.getElementById("entryinput").value;
+        const userInput = entryinputEL.value;
     // Display in the alert box as your new message.  Watch video.
     alert(userInput);
 
