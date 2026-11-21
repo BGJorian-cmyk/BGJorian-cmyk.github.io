@@ -1,0 +1,50 @@
+#wrapper {
+  width: 850px;
+  height: 600px;
+  background-color: blue;
+  margin: 0 auto;
+  overflow:hidden;
+}
+
+#googleMap {
+  width: 700px;
+  height: 500px;
+  background-color: gray;
+  margin: 30px auto;
+}
+
+#main-nav {   
+  float: left;
+    width: 100%;
+    background-color: #05565c;
+  }
+
+
+   #main-nav ul{   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+    position: relative;
+    left:50%;}
+
+ #main-nav ul li {   
+    float: left;
+    position: relative;
+    right: 50%;
+  }
+
+
+  #main-nav ul li a  {   
+    padding: 10px 25px;
+    display: block;
+    text-decoration: none;
+    color: #ccc;
+  }
+
+
+ #main-nav ul li a:hover {  
+   background-color: #00e1ff;
+    color: #333;
+  }
+
+  
